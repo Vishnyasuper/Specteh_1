@@ -1,0 +1,40 @@
+.features_fencing, .features_tool, .features_work, .features_workman, .promo__btn, .catalog__download{
+	background: url(sprites.png) no-repeat;
+}
+
+.features_fencing{
+	background-position: 0 0;
+	width: 42px;
+	height: 40px;
+}
+
+.features_tool{
+	background-position: -50px 0;
+	width: 42px;
+	height: 40px;
+}
+
+.features_work{
+	background-position: -100px 0;
+	width: 46px;
+	height: 40px;
+}
+
+.features_workman{
+	background-position: -150px 0;
+	width: 31px;
+	height: 40px;
+}
+
+.promo__btn{
+	background-position: 0 -50px ;
+	width: 13px;
+	height: 19px;
+}
+
+.catalog__download{
+	background-position: -50px -50px ;
+	width: 17px;
+	height: 18px;
+}
+

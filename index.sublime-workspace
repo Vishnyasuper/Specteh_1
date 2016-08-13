@@ -1,0 +1,385 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"te",
+				"team_1_hover.png	w:80 h:80"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"bgi",
+				"background-image"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"trns",
+				"transform"
+			],
+			[
+				"tr",
+				"translateX()"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"cl",
+				"clip"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"l",
+				"line-through"
+			],
+			[
+				"fea",
+				"features_tool.png	w:42 h:40"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"ls",
+				"list-style-type"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"pb",
+				"padding-bottom"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"tov",
+				"tov-e	text-overflow: ellipsis;"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"dddd",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Projects/Mongolf/img/sprite/sprites.css",
+		"/D/Projects/Mongolf/css/style.css",
+		"/D/Projects/Mongolf/img/sprite/sprites1.css",
+		"/D/Projects/Mongolf/js/script.js",
+		"/D/Projects/Mongolf/index.html",
+		"/D/Projects/jquery-test/index.html",
+		"/D/Projects/Specteh/css/style.css",
+		"/D/Projects/Specteh/index.html",
+		"/D/Projects/Specteh/portfolio.html",
+		"/D/Projects/Specteh/catalog.html",
+		"/D/Projects/Specteh/contacts.html",
+		"/D/Projects/Specteh/js/script.js",
+		"/D/My Documents/Верстка сайтов/Mongolfyerkin_shcherikanova/Монгольфьеркин_shcherikanova/index.html",
+		"/D/My Documents/Верстка сайтов/sp24_shcherikanova/sp24_shcherikanova/index.html",
+		"/D/Projects/jquery-test/js/jquery-ui.min.js",
+		"/D/Projects/jquery-test/js/jquery-2.2.3.min.js",
+		"/D/Projects/jquery-test/js/script.js",
+		"/D/Projects/jquery-test/css/owl.carousel.css",
+		"/D/Projects/jquery-test/css/style.css",
+		"/D/Projects/jquery-test/css/jquery-ui.min.css",
+		"/D/Projects/Specteh/design/Sprite/cfdf9bb18add6f2f23f25d4e215b8e39/sprites.css",
+		"/C/Users/Вишня/Downloads/block/index.html",
+		"/C/Users/Вишня/Downloads/block/css/main.css",
+		"/D/Projects/Specteh/psd-макет и тех.задание/Спрайт/sprites.css",
+		"/D/Projects/grid/css/style.css",
+		"/D/Projects/Specteh/js/jquery.maskedinput.js",
+		"/D/Projects/Specteh/js/jquery-2.2.3.js",
+		"/D/Projects/grid/index.html",
+		"/C/Users/Вишня/AppData/Roaming/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/D/My Documents/Верстка сайтов/email-template-new/style.css",
+		"/D/Projects/Web Fonts/css/style.css",
+		"/D/Projects/Web Fonts/index.html",
+		"/C/Users/Вишня/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/D/Projects/Web Fonts/20db.zip",
+		"/C/Users/Вишня/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/My Documents/Верстка сайтов/email-template-new/email-template.html",
+		"/C/Users/Вишня/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Projects/Specteh/js/li.js",
+		"/D/Projects/Specteh/ddd",
+		"/C/Users/Вишня/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Вишня/AppData/Roaming/Sublime Text 3/Packages/User/hi.sublime-snippet",
+		"/D/Projects/Specteh/css/Style.css",
+		"/D/My Documents/Верстка сайтов/Specteh/Style.css",
+		"/D/My Documents/Верстка сайтов/Specteh/normalize.css",
+		"/D/My Documents/Верстка сайтов/Specteh/Specteh24.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"promo__tab",
+			"          \n",
+			" <div class=\"action__item1\">\n            <div class=\"action__predl\">\n              <h2>Скидки в мае</h2>\n              <div class=\"action__text\">\n                Забронируйте номер или коттедж любой категории до 31 июня и получите скидку 10% !\n              </div>\n            </div>\n          </div>",
+			"img-skin",
+			"team",
+			"socio",
+			"time",
+			"s",
+			"content-video",
+			"contacts-inform__btn",
+			"contacts__btn",
+			"arenda__btn",
+			"row",
+			"rotate",
+			"stati",
+			"rotate",
+			"arrow",
+			">\n",
+			"\">\n",
+			"portfolio__im",
+			"contacts-in",
+			"catalog__after-portfolio-menu",
+			"img-sk",
+			"img-sc",
+			"about__reviews",
+			"phone",
+			"masked",
+			"outli",
+			"catalog",
+			"main-nav"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
