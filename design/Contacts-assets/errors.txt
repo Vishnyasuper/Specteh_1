@@ -1,2 +1,0 @@
-[Mon May 09 2016 12:06:27 GMT+0300 (Московское время (зима))] layer "+7 (812) 212 85 06": Expected Either a default asset specification or a layer asset specification but "+" found.
-[Mon May 09 2016 12:06:27 GMT+0300 (Московское время (зима))] layer "rent@spezteh.ru ": Unsupported extension: ru
